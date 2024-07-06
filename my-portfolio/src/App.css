@@ -849,3 +849,11 @@ button {
 	/* font-family: "Josefin Sans"; */
 	  /** TEXT GRADIENT */ color: #f6dfdf; background-image: -webkit-linear-gradient(0deg, #e9cf0d 0%, #fbfcfb 36%, #ef7103 83%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
   }
+
+  .first-h8{
+	font-size: 16px;
+	font-weight: 500;
+	font-style: normal;
+	font-family: "Josefin Sans";
+	  /** TEXT GRADIENT */ color: #f6dfdf; background-image: -webkit-linear-gradient(0deg, #d8d4d4 0%, #1ab81a 36%, #d1cfcf 83%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
+  }

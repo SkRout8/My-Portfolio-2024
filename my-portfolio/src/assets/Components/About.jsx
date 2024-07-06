@@ -20,7 +20,7 @@ function About() {
           <ThreeDCardDemo />
         </div>
         <div className="md:w-[540px] max-w-[500px] md:pl-0 pl-[83px] md:pr-0 pr-[40px] md:mt-0 mt-[-80px]">
-          <p className=" text-justify first-h3 mt-24 ">
+          <p className=" text-justify first-h8 mt-20 ">
             Heyy This is Shashikanta Rout,I'm 22-year-old and I'm a React JS
             developer from Odisha,India. Passionate about web development, I
             specialize in creating dynamic applications using React JS.
